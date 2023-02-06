@@ -224,6 +224,10 @@ Thread(target=drawing, args=(frame_queue, detections_queue, fps_queue)).start()
 
 <h2>Output samples:</h2>
 
+
+https://user-images.githubusercontent.com/105886661/216980237-429ccc79-10fa-43e4-b2a2-40cac7f281d3.mp4
+
+
 https://user-images.githubusercontent.com/105886661/215539143-42164122-bb3a-4a87-9fb6-13c924155ea0.mp4
 
 
